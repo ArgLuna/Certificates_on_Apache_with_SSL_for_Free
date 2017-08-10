@@ -1,0 +1,12 @@
+﻿# Questions when generating a CSR and answer example
+
+Country Name (2 letter code) [AU]:TW
+State or Province Name (full name) [Some-State]:Taiwan
+Locality Name (eg, city) []:Taipei
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:NUU
+Organizational Unit Name (eg, section) []:CSAE
+Common Name (e.g. server FQDN or YOUR name) []:iantest.hopto.org
+Email Address []:ianncu955246@gmail.com
+
+# Get more detail from the following link
+# https://www.namecheap.com/support/knowledgebase/article.aspx/9446//generating-csr-on-apache--opensslmodsslnginx--heroku
